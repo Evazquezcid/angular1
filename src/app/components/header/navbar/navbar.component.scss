@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+ ul ,li  {
+    list-style: none;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 10vw;
+    font-size: 1.7rem;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+*{
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/arches.png");
+}
